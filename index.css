@@ -823,5 +823,8 @@
 
   .u-section-4 .u-layout-cell-8 {
     min-height: 641px;
+    
   }
+  .u-footer .u-text {
+    display: none !important;
 }
